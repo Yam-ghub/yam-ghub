@@ -1,7 +1,7 @@
-<h1 align="center" style="color:#81A1C1;">👋 Hi, I'm Your Name</h1>
+<h1 align="center" style="color:#81A1C1;">👋 Hi, William Ramos</h1>
 
 <p align="center" style="color:#D8DEE9;">
-  Passionate developer • Open-source enthusiast • Lifelong learner
+  Data Analyst, aspiring to be Data Engineer
 </p>
 
 ---
@@ -9,15 +9,14 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on: `Your Current Project`
-- 🌱 I’m learning: `Tech/Framework`
-- 💬 Ask me about: `Topics you're good at`
-- 📫 How to reach me: **your.email@example.com**
+- 🌱 I’m learning: `PostgreSQL`
+- 📫 How to reach me: ****
 
 ---
 
 ### 🔧 Languages & Tools
 
-<span style="color:#88C0D0">Python</span> • <span style="color:#8FBCBB">JavaScript</span> • <span style="color:#EBCB8B">HTML</span> • <span style="color:#D08770">CSS</span> • <span style="color:#B48EAD">Git</span>
+<span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Git</span>
 
 ---
 
@@ -31,31 +30,20 @@
 
 ### 🧳 Experience
 
-**Intern @ ABC Tech**  
-*React, Node.js* — Summer 2024  
-Built internal tools for workflow automation.
+**Intern @ Maynilad Water Inc.**  
+*Excel, Power Query, Visual Basic* — March 2025
+Designed and implemented automated Excel workbooks using Power Query and VBA macros to transform raw extracted data into structured formats, ready for seamless integration with our front-end monitoring platform.
 
-**Freelance Web Dev**  
-*2023–2024*  
-Created responsive websites for local businesses.
-
----
 
 ### 📜 Certifications
 
-- 🥇 Meta Front-End Developer – [View Certificate](https://example.com/meta)
+- 🥇 SQL basic – HackerRank
 - 🐍 Python for Everybody – [View Certificate](https://example.com/python)
 
 ---
 
 ### 📫 Contact
 
-- ✉️ Email: your.email@example.com  
+- ✉️ Email: ramos.williamlaurence@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
 - 📄 Resume: [Download PDF](https://github.com/yourusername/yourusername.github.io/blob/main/resume.pdf)
-
----
-
-<p align="center" style="color:#4C566A;">
-  Built with ❤️ using the <a href="https://www.nordtheme.com/" style="color:#8FBCBB;">Nord color palette</a>
-</p>
