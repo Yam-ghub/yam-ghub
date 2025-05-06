@@ -8,15 +8,14 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on: `Your Current Project`
+- 🔭 I’m currently working on: `Design of a Fault Forecasting Digital Twin for Preventive Maintenance of Water Pipeline Pressure Data Loggers using Deep Learning `
 - 🌱 I’m learning: `PostgreSQL`
-- 📫 How to reach me: ****
 
 ---
 
 ### 🔧 Languages & Tools
 
-<span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Git</span>
+<span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Power Querry</span> • <span style="color:#B48EAD">Visual Basic</span> • <span style="color:#B48EAD">Git</span>
 
 ---
 
