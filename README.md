@@ -7,7 +7,7 @@
   </style>
 </head>
 <body>
-  <h1>Hello, I'm [Your Name]</h1>
+  <h1>Hello, I'm William Ramos</h1>
   <p>Welcome to my portfolio!</p>
   <ul>
     <li><a href="https://github.com/yourusername/project1">Project 1</a></li>
