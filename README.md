@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#81A1C1;">👋 Hi, William Ramos</h1>
+<h1 align="center" style="color:#81A1C1;">👋 Hi, William Laurence Ramos</h1>
 
 <p align="center" style="color:#D8DEE9;">
   Data Analyst, aspiring to be Data Engineer
