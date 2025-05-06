@@ -8,7 +8,8 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on: `Design of a Fault Forecasting Digital Twin for Preventive Maintenance of Water Pipeline Pressure Data Loggers using Deep Learning `
+- 🔭 I’m currently working on:
+  `Design of a Fault Forecasting Digital Twin for Preventive Maintenance of Water Pipeline Pressure Data Loggers using Deep Learning `
 - 🌱 I’m learning: `PostgreSQL`
 
 ---
