@@ -1,4 +1,4 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yab-ghub&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&theme=radical)
 
 <h1 align="center" style="color:#81A1C1;">👋 Hi, William Laurence Ramos</h1>
 
