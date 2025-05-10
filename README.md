@@ -20,8 +20,7 @@
 ---
 
 ### 🔧 Languages & Tools
-
-<span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Power Querry</span> • <span style="color:#B48EAD">Visual Basic</span> • <span style="color:#B48EAD">Git</span>
+<table> <tr> <td valign="top"> <strong>🧰 Core Tools</strong><br> <span style="color:#EBCB8B">Python</span><br> <span style="color:#8FBCBB">MySQL</span><br> <span style="color:#88C0D0">PostgreSQL</span><br> <span style="color:#D08770">Excel</span><br> <span style="color:#B48EAD">Power Query</span><br> <span style="color:#B48EAD">Visual Basic</span><br> <span style="color:#B48EAD">Git</span><br> </td> <td valign="top"> <strong>🤖 AI & Analytics</strong><br> <span style="color:#A3BE8C">Machine Learning</span><br> <span style="color:#A3BE8C">Deep Learning</span><br> <span style="color:#A3BE8C">RNN & Forecasting</span><br> <span style="color:#A3BE8C">Data Analysis</span><br> <span style="color:#A3BE8C">Pandas</span><br> <span style="color:#A3BE8C">NumPy</span><br> <span style="color:#A3BE8C">Scikit-learn</span><br> <span style="color:#A3BE8C">TensorFlow</span><br> <span style="color:#A3BE8C">Keras</span><br> <span style="color:#A3BE8C">Robotics</span><br> </td> </tr> </table>
 
 ---
 
