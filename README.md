@@ -1,6 +1,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&theme=radical" height="180" style="margin-right: 10px;"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yam-ghub&theme=github-compact)" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yam-ghub&theme=radical" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yam-ghub&theme=github-compact"/>
 </div>
 
 <h1 align="center" style="color:#81A1C1;">👋 Hi, William Laurence Ramos</h1>
