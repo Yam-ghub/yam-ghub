@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&theme=radical" height="180" style="margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yam-ghub&theme=github-compact)" height="180"/>
 </div>
 
 <h1 align="center" style="color:#81A1C1;">👋 Hi, William Laurence Ramos</h1>
