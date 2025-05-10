@@ -1,5 +1,5 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=radical)
 <h1 align="center" style="color:#81A1C1;">👋 Hi, William Laurence Ramos</h1>
 
 <p align="center" style="color:#D8DEE9;">
