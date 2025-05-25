@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#81A1C1;">William Laurence Ramos</span></h1>
+<h1 align="center"> Hi, I'm <span style="color:#81A1C1;">William Laurence Ramos</span></h1>
 
 <p align="center" style="color:#D8DEE9;">
   <strong>Data Analyst</strong> aspiring to become a <strong>Data Engineer</strong>
@@ -13,9 +13,9 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on:
+-  I’m currently working on:
   - Design of a Fault Forecasting Digital Twin for Preventive Maintenance of Water Pipeline Pressure Data Loggers using Deep Learning
-- 🌱 I’m learning: `PostgreSQL`
+-  I’m learning: `PostgreSQL`
 
 ---
 
