@@ -21,15 +21,22 @@
 
 ### 🔧 Languages & Tools
 ### 🚀 Tech Stack Proficiency
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-</p>
+### 🛠️ Technologies & Skills
 
-- HTML/CSS ![90%](https://img.shields.io/badge/HTML--CSS-90%25-brightgreen)
-- JavaScript ![85%](https://img.shields.io/badge/JavaScript-85%25-yellowgreen)
-- 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F7761E?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0A3661?style=for-the-badge&logo=seaborn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white)
+![Aveva PI System](https://img.shields.io/badge/Aveva_PI_System-FF6C00?style=for-the-badge&logo=aveva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=neuralink&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B6BFB?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-4B6BFB?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Forecasting](https://img.shields.io/badge/Forecasting-008080?style=for-the-badge&logo=forecast&logoColor=white)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=donut&theme=radical" alt="Top Languages Donut" />
 
 <span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Power Query</span> • <span style="color:#B48EAD">Visual Basic</span> • <span style="color:#B48EAD">Git</span> • <span style="color:#A3BE8C">Pandas</span> • <span style="color:#A3BE8C">NumPy</span> • <span style="color:#A3BE8C">Matplotlib</span> • <span style="color:#A3BE8C">Seaborn</span> • <span style="color:#A3BE8C">Machine Learning</span> • <span style="color:#A3BE8C">Deep Learning</span> • <span style="color:#A3BE8C">RNN & Forecasting</span>
