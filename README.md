@@ -19,7 +19,7 @@
 ---
 
 ### 🔧 Languages & Tools
-| 🗄️ Databases          | 🐍 Programming & Scripting      | 📊 Data Analysis & Visualization                                  | 🤖 Machine Learning & AI                                       |
+|  Databases          |  Programming & Scripting      | Data Analysis & Visualization                                  | Machine Learning & AI                                       |
 |-----------------------|--------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B6BFB?style=for-the-badge&logo=tensorflow&logoColor=white) |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white) | ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) | ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=neuralink&logoColor=white)                 |
@@ -31,7 +31,7 @@
 
 <span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Power Query</span> • <span style="color:#B48EAD">Visual Basic</span> • <span style="color:#B48EAD">Git</span> • <span style="color:#A3BE8C">Pandas</span> • <span style="color:#A3BE8C">NumPy</span> • <span style="color:#A3BE8C">Matplotlib</span> • <span style="color:#A3BE8C">Seaborn</span> • <span style="color:#A3BE8C">Machine Learning</span> • <span style="color:#A3BE8C">Deep Learning</span> • <span style="color:#A3BE8C">RNN & Forecasting</span>
   <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=bar&theme=dracula" alt="Top Languages Bar Plot" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yam-ghub&theme=github-dark&area=true&hide_border=true&custom_title=Contribution+Graph&line=90ee90&point=ffa07a&color=9feaf9" alt="GitHub Activity Line Graph" />
 ---
