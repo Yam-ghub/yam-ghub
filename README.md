@@ -30,8 +30,9 @@
 |                       |                                | ![Seaborn](https://img.shields.io/badge/Seaborn-0A3661?style=for-the-badge&logo=seaborn&logoColor=white)                          |                                                               |
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
 
+---
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
 ---
 
 ### 📁 Projects
