@@ -1,6 +1,7 @@
 <div align="center">
-  <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&theme=dracula" alt="GitHub Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yam-ghub&theme=github-dark&area=true&hide_border=true&custom_title=Contribution+Graph&line=90ee90&point=ffa07a&color=9feaf9" alt="GitHub Activity Line Graph" />
+
 </div>
 
 <h1 align="center"> Hi, I'm <span style="color:#81A1C1;">William Laurence Ramos</span></h1>
@@ -33,7 +34,6 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yam-ghub&theme=github-dark&area=true&hide_border=true&custom_title=Contribution+Graph&line=90ee90&point=ffa07a&color=9feaf9" alt="GitHub Activity Line Graph" />
 ---
 
 ### 📁 Projects
