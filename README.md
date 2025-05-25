@@ -20,6 +20,13 @@
 ---
 
 ### 🔧 Languages & Tools
+### 🚀 Tech Stack Proficiency
+
+- 💻 HTML/CSS ![90%](https://progress-bar.dev/90/?title=)
+- ⚙️ JavaScript ![85%](https://progress-bar.dev/85/?title=)
+- ⚛️ React ![80%](https://progress-bar.dev/80/?title=)
+- 🐍 Python ![70%](https://progress-bar.dev/70/?title=)
+- 🐘 PostgreSQL ![60%](https://progress-bar.dev/60/?title=)
 <span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Power Query</span> • <span style="color:#B48EAD">Visual Basic</span> • <span style="color:#B48EAD">Git</span> • <span style="color:#A3BE8C">Pandas</span> • <span style="color:#A3BE8C">NumPy</span> • <span style="color:#A3BE8C">Matplotlib</span> • <span style="color:#A3BE8C">Seaborn</span> • <span style="color:#A3BE8C">Machine Learning</span> • <span style="color:#A3BE8C">Deep Learning</span> • <span style="color:#A3BE8C">RNN & Forecasting</span>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
