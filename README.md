@@ -35,7 +35,7 @@
 ### 📁 Projects
 
 - 🔹 [**Weather App**](https://github.com/yourusername/weather-app) — Real-time weather using OpenWeather API
-- 🔹 [**Portfolio Site**](https://github.com/yourusername/portfolio) — Simple portfolio built with HTML/CSS
+- 🔹 [**Portfolio Site**](https://yam-ghub-github-io.vercel.app/) — Simple portfolio built with HTML/CSS
 - 🔹 [**Todo App**](https://github.com/yourusername/todo-app) — Basic task manager using vanilla JS
 
 ---
