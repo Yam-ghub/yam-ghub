@@ -44,8 +44,9 @@
 
 <span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Power Query</span> • <span style="color:#B48EAD">Visual Basic</span> • <span style="color:#B48EAD">Git</span> • <span style="color:#A3BE8C">Pandas</span> • <span style="color:#A3BE8C">NumPy</span> • <span style="color:#A3BE8C">Matplotlib</span> • <span style="color:#A3BE8C">Seaborn</span> • <span style="color:#A3BE8C">Machine Learning</span> • <span style="color:#A3BE8C">Deep Learning</span> • <span style="color:#A3BE8C">RNN & Forecasting</span>
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=bar&theme=dracula" alt="Top Languages Bar Plot" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yam-ghub&theme=github-dark&area=true&hide_border=true&custom_title=Contribution+Graph&line=90ee90&point=ffa07a&color=9feaf9" alt="GitHub Activity Line Graph" />
 ---
 
 ### 📁 Projects
@@ -68,7 +69,6 @@ Designed and implemented automated Excel workbooks using Power Query and VBA mac
 - 🥇 SQL basic – HackerRank
 - 🐍 Python for Everybody – [View Certificate](https://example.com/python)
 ---
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yam-ghub&theme=github-dark&area=true&hide_border=true&custom_title=Contribution+Graph&line=90ee90&point=ffa07a&color=9feaf9" alt="GitHub Activity Line Graph" />
 
 ### 📫 Contact
 
