@@ -30,8 +30,6 @@
 |                       |                                | ![Seaborn](https://img.shields.io/badge/Seaborn-0A3661?style=for-the-badge&logo=seaborn&logoColor=white)                          |                                                               |
 
 
-<span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Power Query</span> • <span style="color:#B48EAD">Visual Basic</span> • <span style="color:#B48EAD">Git</span> • <span style="color:#A3BE8C">Pandas</span> • <span style="color:#A3BE8C">NumPy</span> • <span style="color:#A3BE8C">Matplotlib</span> • <span style="color:#A3BE8C">Seaborn</span> • <span style="color:#A3BE8C">Machine Learning</span> • <span style="color:#A3BE8C">Deep Learning</span> • <span style="color:#A3BE8C">RNN & Forecasting</span>
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
 
 ---
