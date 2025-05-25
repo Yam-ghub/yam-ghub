@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&hide_border=true&theme=graywhite" alt="GitHub Stats" />
 
 </div>
 
