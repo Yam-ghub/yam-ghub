@@ -21,6 +21,15 @@
 
 ### 🔧 Languages & Tools
 ### 🚀 Tech Stack Proficiency
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+</p>
+
+- HTML/CSS ![90%](https://img.shields.io/badge/HTML--CSS-90%25-brightgreen)
+- JavaScript ![85%](https://img.shields.io/badge/JavaScript-85%25-yellowgreen)
+- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=donut&theme=radical" alt="Top Languages Donut" />
 
 <span style="color:#88C0D0">MySQL</span> • <span style="color:#8FBCBB">PostgreSQL</span> • <span style="color:#EBCB8B">Python</span> • <span style="color:#D08770">Excel</span> • <span style="color:#B48EAD">Power Query</span> • <span style="color:#B48EAD">Visual Basic</span> • <span style="color:#B48EAD">Git</span> • <span style="color:#A3BE8C">Pandas</span> • <span style="color:#A3BE8C">NumPy</span> • <span style="color:#A3BE8C">Matplotlib</span> • <span style="color:#A3BE8C">Seaborn</span> • <span style="color:#A3BE8C">Machine Learning</span> • <span style="color:#A3BE8C">Deep Learning</span> • <span style="color:#A3BE8C">RNN & Forecasting</span>
