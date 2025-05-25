@@ -30,9 +30,6 @@
 |                       |                                | ![Seaborn](https://img.shields.io/badge/Seaborn-0A3661?style=for-the-badge&logo=seaborn&logoColor=white)                          |                                                               |
 
 
-
----
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
 ---
 
 ### 📁 Projects
@@ -40,6 +37,9 @@
 - 🔹 [**Weather App**](https://github.com/yourusername/weather-app) — Real-time weather using OpenWeather API
 - 🔹 [**Portfolio Site**](https://github.com/yourusername/portfolio) — Simple portfolio built with HTML/CSS
 - 🔹 [**Todo App**](https://github.com/yourusername/todo-app) — Basic task manager using vanilla JS
+
+---
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
 
 ---
 
