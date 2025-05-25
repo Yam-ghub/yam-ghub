@@ -1,10 +1,6 @@
 <div align="center">
-
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <!-- GitHub Trophies (Optional) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yam-ghub&theme=radical&no-bg=true&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 
 </div>
 
