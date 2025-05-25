@@ -1,15 +1,22 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&theme=radical" height="180" style="margin-right: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yam-ghub&theme=radical" height="180"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yam-ghub&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- GitHub Trophies (Optional) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yam-ghub&theme=radical&no-bg=true&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+
 </div>
 
-<h1 align="center" style="color:#81A1C1;">👋 Hi, William Laurence Ramos</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#81A1C1;">William Laurence Ramos</span></h1>
 
 <p align="center" style="color:#D8DEE9;">
-  Data Analyst, aspiring to be Data Engineer
+  <strong>Data Analyst</strong> aspiring to become a <strong>Data Engineer</strong>
 </p>
 
----
 
 ### 🧠 About Me
 
