@@ -35,7 +35,7 @@
 ### 📁 Projects
 
 - 🔹 [**Retail Sales Analysis with Excel & SQL**](https://github.com/Yam-ghub/SalesAnalysisSQL.git) — CTEs, Subqueries & Advanced SQL Logic
-- 🔹 [**Portfolio Site**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Simple portfolio built with HTML/CSS
+- 🔹 [**My Portfolio**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Portfolio built with HTML, CSS, and Javascript
 - 🔹 [**Todo App**](https://github.com/yourusername/todo-app) — Basic task manager using vanilla JS
 
 ---
