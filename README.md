@@ -34,8 +34,8 @@
 
 ### 📁 Projects
 
-- 🔹 [**Weather App**](https://github.com/yourusername/weather-app) — Real-time weather using OpenWeather API
-- 🔹 [**Portfolio Site**](https://yam-ghub-github-io.vercel.app/) — Simple portfolio built with HTML/CSS
+- 🔹 [**Retail Sales Analysis with Excel & SQL**](https://github.com/Yam-ghub/SalesAnalysisSQL.git) — CTEs, Subqueries & Advanced SQL Logic
+- 🔹 [**Portfolio Site**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Simple portfolio built with HTML/CSS
 - 🔹 [**Todo App**](https://github.com/yourusername/todo-app) — Basic task manager using vanilla JS
 
 ---
