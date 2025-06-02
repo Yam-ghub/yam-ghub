@@ -36,7 +36,7 @@
 
 - 🔹 [**Retail Sales Analysis with Excel & SQL**](https://github.com/Yam-ghub/SalesAnalysisSQL.git) — CTEs, Subqueries & Advanced SQL Logic
 - 🔹 [**My Portfolio**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Portfolio built with HTML, CSS, and Javascript
-- 🔹 [**Todo App**](https://github.com/yourusername/todo-app) — Basic task manager using vanilla JS
+- 🔹 [**London Travel Network**](https://github.com/Yam-ghub/LondonTravelNetwork.git) — Data cleaning, manipulation, and analysis.
 
 ---
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
