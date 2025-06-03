@@ -55,8 +55,10 @@ Designed and implemented automated Excel workbooks using Power Query and VBA mac
 
 ### 📜 Certifications
 
-- 🥇 SQL basic – HackerRank
-- 🐍 Python for Everybody – [View Certificate](https://example.com/python)
+-  🐘 SQL Associate | DataCamp – [View Certificate](https://www.datacamp.com/certificate/SQA0012764305438)
+-  🐘 SQL Basic | HackerRank - [View Certificate](https://www.hackerrank.com/certificates/e54a3794a38b)
+-  🥇 CCNA: Devnet Associate | Cisco - [View Certificate](https://www.credly.com/badges/e4053a47-ee28-4a49-8b39-5f21db4bc78d/)
+-  🥇 CCNA: Switching, Routing, and Wireless Essentials | Cisco - [View Certificate](https://www.credly.com/badges/685df46c-11a9-49f4-85d1-fe4a321087a8/)
 ---
 
 ### 📫 Contact
