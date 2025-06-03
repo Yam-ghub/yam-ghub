@@ -34,13 +34,13 @@
 ## Projects
 
 ### 🚀 Data Analysis Projects
-🔹 [**UK Accident Analysis**](https://github.com/Yam-ghub/UK-Road-Accident-Analysis) — A data analysis project exploring patterns in UK road accidents with a focus on casualties, severity, vehicle types, and environmental conditions. Built using Power BI and DAX.
-🔹 [**Retail Sales Analysis with Excel & SQL**](https://github.com/Yam-ghub/SalesAnalysisSQL.git) — Discovered multiple insights by analyzing KPIs through data cleaning, manipulation, and transformation using Advance SQL techniques such as CTEs, subqueries, and RANK functions, along with Excel.
-🔹 [**London Travel Network Analysis**](https://github.com/Yam-ghub/LondonTravelNetwork.git) — Simple project practicing data cleaning, manipulation, and analysis using London travel network dataset.
+-  [**UK Accident Analysis**](https://github.com/Yam-ghub/UK-Road-Accident-Analysis) — A data analysis project exploring patterns in UK road accidents with a focus on casualties, severity, vehicle types, and environmental conditions. Built using Power BI and DAX.
+-  [**Retail Sales Analysis with Excel & SQL**](https://github.com/Yam-ghub/SalesAnalysisSQL.git) — Discovered multiple insights by analyzing KPIs through data cleaning, manipulation, and transformation using Advance SQL techniques such as CTEs, subqueries, and RANK functions, along with Excel.
+- [**London Travel Network Analysis**](https://github.com/Yam-ghub/LondonTravelNetwork.git) — Simple project practicing data cleaning, manipulation, and analysis using London travel network dataset.
 
 ### 🚀 Web Application Projects
-🔹 [**My Portfolio**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Portfolio built with HTML, CSS, and Javascript
-🔹 [**Baked with Lauv**](https://github.com/Yam-ghub/BakedwLauvwBE) — a simple cookie sale website built using HTML, CSS, and JavaScript. It allows customers to place orders by filling out a form with their details. Once submitted, the order information is sent directly to the seller’s email, enabling easy order management without a complex backend system.
+-  [**My Portfolio**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Portfolio built with HTML, CSS, and Javascript
+-  [**Baked with Lauv**](https://github.com/Yam-ghub/BakedwLauvwBE) — a simple cookie sale website built using HTML, CSS, and JavaScript. It allows customers to place orders by filling out a form with their details. Once submitted, the order information is sent directly to the seller’s email, enabling easy order management without a complex backend system.
 ---
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yam-ghub&layout=compact&theme=dracula" alt="Top Languages" />
 
