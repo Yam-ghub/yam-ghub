@@ -33,7 +33,7 @@
 ---
 ## Projects
 
-### 🚀 Data Analysis Projects
+### 📊 Data Analysis Projects
 -  [**UK Accident Analysis**](https://github.com/Yam-ghub/UK-Road-Accident-Analysis) — A data analysis project exploring patterns in UK road accidents with a focus on casualties, severity, vehicle types, and environmental conditions. Built using Power BI and DAX.
 -  [**Retail Sales Analysis with Excel & SQL**](https://github.com/Yam-ghub/SalesAnalysisSQL.git) — Discovered multiple insights by analyzing KPIs through data cleaning, manipulation, and transformation using Advance SQL techniques such as CTEs, subqueries, and RANK functions, along with Excel.
 - [**London Travel Network Analysis**](https://github.com/Yam-ghub/LondonTravelNetwork.git) — Simple project practicing data cleaning, manipulation, and analysis using London travel network dataset.
