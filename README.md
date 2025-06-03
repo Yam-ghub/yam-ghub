@@ -49,7 +49,7 @@
 ### 🧳 Experience
 
 **Intern @ Maynilad Water Inc.**  
-*Excel, Power Query, Visual Basic* — March 2025
+*Excel, Power Query, Visual Basic* — March 2025 - May 2025
 Designed and implemented automated Excel workbooks using Power Query and VBA macros to transform raw extracted data into structured formats, ready for seamless integration with our front-end monitoring platform.
 
 
@@ -64,5 +64,5 @@ Designed and implemented automated Excel workbooks using Power Query and VBA mac
 ### 📫 Contact
 
 - ✉️ Email: ramos.williamlaurence@gmail.com 
-- 💼 LinkedIn: [Profile Link](https://www.linkedin.com/in/yamramos/)
+- 💼 LinkedIn: [William Laurence Ramos](https://www.linkedin.com/in/yamramos/)
 - 📄 Resume: [Download PDF](https://drive.google.com/file/d/1j1d05B0B-pR4-hYUExb9yLLRaNoJCE4O/view?usp=sharing)
