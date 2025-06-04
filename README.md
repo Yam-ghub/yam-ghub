@@ -37,6 +37,7 @@
 -  [**UK Accident Analysis**](https://github.com/Yam-ghub/UK-Road-Accident-Analysis) — A data analysis project exploring patterns in UK road accidents with a focus on casualties, severity, vehicle types, and environmental conditions. Built using Power BI and DAX.
 -  [**Retail Sales Analysis with Excel & SQL**](https://github.com/Yam-ghub/SalesAnalysisSQL.git) — Discovered multiple insights by analyzing KPIs through data cleaning, manipulation, and transformation using Advance SQL techniques such as CTEs, subqueries, and RANK functions, along with Excel.
 - [**London Travel Network Analysis**](https://github.com/Yam-ghub/LondonTravelNetwork.git) — Simple project practicing data cleaning, manipulation, and analysis using London travel network dataset.
+- [**Emerson x DAPH Data Challenge 2025**](https://github.com/Yam-ghub/Manufacturing_Downtime) — National Competition of Emerson and Data Analyst Philippines, analyzing manufacturing downtime using soda manufacturer data set. Built using integrated Excel Workbook into Power BI for transforming, visualizing, and using DAX to provide insights using computation. 
 
 ### 🚀 Web Application Projects
 -  [**My Portfolio**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Portfolio built with HTML, CSS, and Javascript
