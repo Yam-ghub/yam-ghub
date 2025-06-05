@@ -23,12 +23,13 @@
 | Databases | Programming & Scripting | Data Analysis & Visualization | Machine Learning & AI |
 |-----------|--------------------------|-------------------------------|------------------------|
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B6BFB?style=for-the-badge&logo=tensorflow&logoColor=white) |
+|  |  | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white) | ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) | ![Deep Learning & Forecasting](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=neuralink&logoColor=white) |
 |  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![RNN](https://img.shields.io/badge/RNN-4B6BFB?style=for-the-badge&logo=tensorflow&logoColor=white) |
 |  |  | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=python&logoColor=white) | |
 |  |  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-F7761E?style=for-the-badge&logo=matplotlib&logoColor=white) | |
 |  |  | ![Seaborn](https://img.shields.io/badge/Seaborn-0A3661?style=for-the-badge&logo=seaborn&logoColor=white) | |
-|  |  | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | |
+
 
 
 
