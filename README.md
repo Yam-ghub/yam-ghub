@@ -31,10 +31,6 @@
 |  |  | ![Seaborn](https://img.shields.io/badge/Seaborn-0A3661?style=for-the-badge&logo=seaborn&logoColor=white) | |
 
 
-
-
-
-
 ---
 ## Projects
 
@@ -48,7 +44,6 @@
 -  [**My Portfolio**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Portfolio built with HTML, CSS, and Javascript
 -  [**Baked with Lauv**](https://github.com/Yam-ghub/BakedwLauvwBE) — a simple cookie sale website built using HTML, CSS, and JavaScript. It allows customers to place orders by filling out a form with their details. Once submitted, the order information is sent directly to the seller’s email, enabling easy order management without a complex backend system.
 ---
-![Metrics](https://raw.githubusercontent.com/Yam-ghub/metrics/github-metrics.svg)
 
 ### 🧳 Experience
 
