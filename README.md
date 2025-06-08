@@ -35,10 +35,11 @@
 ## Projects
 
 ### 📊 Data Analysis Projects
+- [**Shopify Performance Dashboard**](https://github.com/Yam-ghub/Shopify-Performance-Dashboard) - This dynamic dashboard is built to make analyzing Shopify sales and customer data simple and impactful—without writing a single line of SQL. It starts with Excel for initial data analysis, uses Power Query to clean and transform raw Shopify exports, and brings everything to life with Power BI for rich, interactive visualizations. At its core, it empowers self-service analytics, so anyone can explore key KPIs and uncover insights in just a few clicks.
 -  [**UK Accident Analysis**](https://github.com/Yam-ghub/UK-Road-Accident-Analysis) — A data analysis project exploring patterns in UK road accidents with a focus on casualties, severity, vehicle types, and environmental conditions. Built using Power BI and DAX.
 -  [**Retail Sales Analysis with Excel & SQL**](https://github.com/Yam-ghub/SalesAnalysisSQL.git) — Discovered multiple insights by analyzing KPIs through data cleaning, manipulation, and transformation using Advance SQL techniques such as CTEs, subqueries, and RANK functions, along with Excel.
 - [**London Travel Network Analysis**](https://github.com/Yam-ghub/LondonTravelNetwork.git) — Simple project practicing data cleaning, manipulation, and analysis using London travel network dataset.
-- [**Emerson x DAPH Data Challenge 2025**](https://github.com/Yam-ghub/Manufacturing_Downtime) — National Competition of Emerson and Data Analyst Philippines, analyzing manufacturing downtime using soda manufacturer data set. Built using integrated Excel Workbook into Power BI for transforming, visualizing, and using DAX to provide insights using computation. 
+- [**Emerson x DAPH Data Challenge 2025**](https://github.com/Yam-ghub/Manufacturing_Downtime) — National Competition of Emerson and Data Analyst Philippines, analyzing manufacturing downtime using soda manufacturer data set. Built using integrated Excel Workbook into Power BI for transforming, visualizing, and using DAX to provide insights using computation.
 
 ### 🚀 Web Application Projects
 -  [**My Portfolio**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Portfolio built with HTML, CSS, and Javascript
