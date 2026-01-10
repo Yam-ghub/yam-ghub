@@ -7,15 +7,14 @@
 <h1 align="center"> Hi, I'm <span style="color:#81A1C1;">William Laurence Ramos</span></h1>
 
 <p align="center" style="color:#D8DEE9;">
-  <strong>Data Analyst</strong> aspiring to become a <strong>Data Engineer</strong>
+  <strong>Azure Data Operations Engineer</strong> aspiring to become a <strong>Data Engineer</strong>
 </p>
 
 
 ### 🧠 About Me
 
--  I’m currently working on:
-  - Design of a Fault Forecasting Digital Twin for Preventive Maintenance of Water Pipeline Pressure Data Loggers using Deep Learning
--  I’m learning: `Power Bi`
+-  I’m currently working as a Data Operations that focuses in Azure Cloud Support.
+-  I’m learning: Azure Data Fabrics
 
 ---
 
