@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yam-ghub&theme=github-dark&area=true&hide_border=true&custom_title=Contribution+Graph&line=90ee90&point=ffa07a&color=9feaf9" alt="GitHub Activity Line Graph" />
-
-</div>
-
 <h1 align="center"> Hi, I'm <span style="color:#81A1C1;">William Laurence Ramos</span></h1>
 
 <p align="center" style="color:#D8DEE9;">
