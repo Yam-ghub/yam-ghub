@@ -8,7 +8,7 @@
 ### 🧠 About Me
 
 -  I’m currently working as a Data Operations that focuses in Azure Cloud Support.
--  I’m learning: Azure Data Fabrics
+-  I’m learning: Databricks
 
 ---
 
