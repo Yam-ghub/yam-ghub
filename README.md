@@ -36,7 +36,6 @@
 - [**FreeconDataset2025**](https://github.com/Yam-ghub/FreeconDataset2025) - This project focuses on analyzing financial performance metrics—gross sales, profit, cost of goods sold (COGS), and discounts—across datasets from small businesses, government entities, and large enterprises. The goal is to uncover patterns in product performance, pricing strategies, and profitability trends across different organizational scales.
 - [**UnitedStates_Emission_Databricks_**](https://github.com/Yam-ghub/Databricks_Practice/blob/main/README.md) - This project is an end-to-end data pipeline built in Databricks, covering data ingestion, transformation, analysis, and visualization. It focuses on United Nations emissions data, providing actionable insights into global and regional emission patterns. The project demonstrates the full lifecycle of a data engineering and analytics workflow, from raw data ingestion to interactive visualizations.
 ### 🚀 Web Application Projects
--  [**My Portfolio**](https://github.com/Yam-ghub/Yam-ghub.github.io.git) — Portfolio built with HTML, CSS, and Javascript
 -  [**Baked with Lauv**](https://github.com/Yam-ghub/BakedwLauvwBE) — a simple cookie sale website built using HTML, CSS, and JavaScript. It allows customers to place orders by filling out a form with their details. Once submitted, the order information is sent directly to the seller’s email, enabling easy order management without a complex backend system.
 ---
 
