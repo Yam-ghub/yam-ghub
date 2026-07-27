@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm <span style="color:#81A1C1;">William Laurence Ramos</span></h1>
 
 <p align="center" style="color:#D8DEE9;">
-  <strong>Azure Data Operations Engineer</strong> aspiring to become a <strong>Data Engineer</strong>
+  <strong>Data Operations Engineer</strong> aspiring to become a <strong>Data Engineer</strong>
 </p>
 
 
