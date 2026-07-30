@@ -34,6 +34,9 @@ Developed a deep learning model that forecasts water pressure (PSI) 30 data poin
 - [**Data Pipeline using Snowflake**](https://github.com/Yam-ghub/Data-Pipeline-using-Snowflake) -
 Weather Application Data Pipeline is an end-to-end cloud data engineering project that demonstrates a modern ELT workflow using Amazon S3, Snowflake, and Streamlit.
 
+- [**Declarative Data Pipelines with Snowflake**](https://github.com/Yam-ghub/Creating-Declarative-Data-Pipelines)
+Designed and implemented a Snowflake Declarative Data Pipeline integrated with AWS to automate customer and order data processing using SQL.
+
 ### 📊 Data Analysis Projects
 - [**Shopify Performance Dashboard**](https://github.com/Yam-ghub/Shopify-Performance-Dashboard) - This dynamic dashboard is built to make analyzing Shopify sales and customer data simple and impactful—without writing a single line of SQL. It starts with Excel for initial data analysis, uses Power Query to clean and transform raw Shopify exports, and brings everything to life with Power BI for rich, interactive visualizations. At its core, it empowers self-service analytics, so anyone can explore key KPIs and uncover insights in just a few clicks.
 -  [**UK Accident Analysis**](https://github.com/Yam-ghub/UK-Road-Accident-Analysis) — A data analysis project exploring patterns in UK road accidents with a focus on casualties, severity, vehicle types, and environmental conditions. Built using Power BI and DAX.
