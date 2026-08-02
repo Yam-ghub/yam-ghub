@@ -61,6 +61,7 @@ Designed and implemented automated Excel workbooks using Power Query and VBA mac
 -  Associate Data Engineer | DataCamp - [View Certificate](https://www.datacamp.com/certificate/DEA0016051588753)
 -  Databricks Fundamentals | Databricks - [View Certificate](https://credentials.databricks.com/2548f2bf-9258-42b7-8130-60c4e9579448) 
 -  SQL Associate | DataCamp – [View Certificate](https://www.datacamp.com/certificate/SQA0012764305438)
+-  SQL Intermediate | HackerRank - [View Certificate](https://www.hackerrank.com/certificates/iframe/06c1a4f42ce9)
 -  SQL Basic | HackerRank - [View Certificate](https://www.hackerrank.com/certificates/e54a3794a38b)
 -  Data Literacy Fundamentals | DataCamp- [View Certificate](https://www.datacamp.com/skill-verification/DL0031679384641)
 -  CCNA: Devnet Associate | Cisco - [View Certificate](https://www.credly.com/badges/e4053a47-ee28-4a49-8b39-5f21db4bc78d/)
