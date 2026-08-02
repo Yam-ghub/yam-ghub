@@ -72,4 +72,3 @@ Designed and implemented automated Excel workbooks using Power Query and VBA mac
 
 - ✉️ Email: ramos.williamlaurence@gmail.com 
 - 💼 LinkedIn: [Link](https://www.linkedin.com/in/yamramos/)
-- 📄 Resume: [Download PDF](https://drive.google.com/file/d/1j1d05B0B-pR4-hYUExb9yLLRaNoJCE4O/view?usp=sharing)
