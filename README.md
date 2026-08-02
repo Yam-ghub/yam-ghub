@@ -57,12 +57,14 @@ Designed and implemented automated Excel workbooks using Power Query and VBA mac
 
 
 ### 📜 Certifications
-
--  🐘 SQL Associate | DataCamp – [View Certificate](https://www.datacamp.com/certificate/SQA0012764305438)
--  🐘 SQL Basic | HackerRank - [View Certificate](https://www.hackerrank.com/certificates/e54a3794a38b)
--  🐘 Data Literacy Fundamentals | DataCamp- [View Certificate](https://www.datacamp.com/skill-verification/DL0031679384641)
--  🥇 CCNA: Devnet Associate | Cisco - [View Certificate](https://www.credly.com/badges/e4053a47-ee28-4a49-8b39-5f21db4bc78d/)
--  🥇 CCNA: Switching, Routing, and Wireless Essentials | Cisco - [View Certificate](https://www.credly.com/badges/685df46c-11a9-49f4-85d1-fe4a321087a8/)
+-  Azure Data Fundamentals (DP-900) | Microsoft - [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/WilliamLaurenceRamos-9171/896A2409995AD8EF?sharingId)
+-  Associate Data Engineer | DataCamp - [View Certificate](https://www.datacamp.com/certificate/DEA0016051588753)
+-  Databricks Fundamentals | Databricks - [View Certificate](https://credentials.databricks.com/2548f2bf-9258-42b7-8130-60c4e9579448) 
+-  SQL Associate | DataCamp – [View Certificate](https://www.datacamp.com/certificate/SQA0012764305438)
+-  SQL Basic | HackerRank - [View Certificate](https://www.hackerrank.com/certificates/e54a3794a38b)
+-  Data Literacy Fundamentals | DataCamp- [View Certificate](https://www.datacamp.com/skill-verification/DL0031679384641)
+-  CCNA: Devnet Associate | Cisco - [View Certificate](https://www.credly.com/badges/e4053a47-ee28-4a49-8b39-5f21db4bc78d/)
+-  CCNA: Switching, Routing, and Wireless Essentials | Cisco - [View Certificate](https://www.credly.com/badges/685df46c-11a9-49f4-85d1-fe4a321087a8/)
 ---
 
 ### 📫 Contact
