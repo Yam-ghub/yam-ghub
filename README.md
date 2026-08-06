@@ -51,6 +51,8 @@ Designed and implemented a Snowflake Declarative Data Pipeline integrated with A
 
 ### 🧳 Experience
 
+**Data Operation Engineer @ Manulife Philippines.**  
+
 **Intern @ Maynilad Water Inc.**  
 *Excel, Power Query, Visual Basic* — March 2025 - May 2025
 Designed and implemented automated Excel workbooks using Power Query and VBA macros to transform raw extracted data into structured formats, ready for seamless integration with our front-end monitoring platform.
