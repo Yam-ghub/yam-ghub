@@ -62,7 +62,9 @@ including Azure Data Lake Storage (ADLS) and Azure Key Vault (AKV), reducing pip
 while maintaining 100% SLA compliance. 
 ● Collaborated with Data Engineers to support CI/CD deployments using Jenkins, troubleshoot ETL workflows, 
 improve pipeline reliability, and implement best practices for scalable and resilient data processing. 
-
+● Worked closely with Data Governance and Business Intelligence teams to validate data quality, support 
+Power BI semantic models, resolve data discrepancies, and ensure trusted, analytics-ready datasets for 
+business reporting. 
 
 
 
