@@ -52,19 +52,8 @@ Designed and implemented a Snowflake Declarative Data Pipeline integrated with A
 ### 🧳 Experience
 
 **Data Operation Engineer @ Manulife Philippines.**  
-August 2025 - Present
-● Managed, monitored, and optimized 50+ production ETL/ELT data pipelines using Informatica, Apache 
-Airflow, Azure Data Factory (ADF), Databricks, and CA Workload Automation, maintaining 99.8% pipeline 
-availability across enterprise data platforms. 
-● Automated and streamlined production monitoring using Moogsoft, xMatters, and Azure Monitor Alerts, 
-performing root cause analysis and issue resolution for data pipeline failures. Administered Azure services 
-including Azure Data Lake Storage (ADLS) and Azure Key Vault (AKV), reducing pipeline downtime by 13% 
-while maintaining 100% SLA compliance. 
-● Collaborated with Data Engineers to support CI/CD deployments using Jenkins, troubleshoot ETL workflows, 
-improve pipeline reliability, and implement best practices for scalable and resilient data processing. 
-● Worked closely with Data Governance and Business Intelligence teams to validate data quality, support 
-Power BI semantic models, resolve data discrepancies, and ensure trusted, analytics-ready datasets for 
-business reporting. 
+*Azure Services and ETL/ELT processes* — August 2025 - Present
+Managed, monitored, and optimized over 50 production ETL/ELT data pipelines using Informatica, Apache Airflow, Azure Data Factory (ADF), Databricks, and CA Workload Automation, maintaining 99.8% pipeline availability across enterprise data platforms. Automated and streamlined production monitoring with Moogsoft, xMatters, and Azure Monitor Alerts, performing root cause analysis and resolving data pipeline failures while administering Azure Data Lake Storage (ADLS) and Azure Key Vault (AKV), reducing pipeline downtime by 13% and maintaining 100% SLA compliance. Collaborated with Data Engineers to support CI/CD deployments using Jenkins, troubleshoot ETL workflows, improve pipeline reliability, and implement best practices for scalable, resilient data processing. Partnered with Data Governance and Business Intelligence teams to validate data quality, support Power BI semantic models, resolve data discrepancies, and deliver trusted, analytics-ready datasets for business reporting.
 
 
 
