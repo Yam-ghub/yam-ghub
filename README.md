@@ -52,6 +52,11 @@ Designed and implemented a Snowflake Declarative Data Pipeline integrated with A
 ### 🧳 Experience
 
 **Data Operation Engineer @ Manulife Philippines.**  
+August 2025 - Present
+● Managed, monitored, and optimized 50+ production ETL/ELT data pipelines using Informatica, Apache 
+Airflow, Azure Data Factory (ADF), Databricks, and CA Workload Automation, maintaining 99.8% pipeline 
+availability across enterprise data platforms. 
+
 
 **Intern @ Maynilad Water Inc.**  
 *Excel, Power Query, Visual Basic* — March 2025 - May 2025
