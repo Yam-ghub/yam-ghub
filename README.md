@@ -56,6 +56,11 @@ August 2025 - Present
 ● Managed, monitored, and optimized 50+ production ETL/ELT data pipelines using Informatica, Apache 
 Airflow, Azure Data Factory (ADF), Databricks, and CA Workload Automation, maintaining 99.8% pipeline 
 availability across enterprise data platforms. 
+● Automated and streamlined production monitoring using Moogsoft, xMatters, and Azure Monitor Alerts, 
+performing root cause analysis and issue resolution for data pipeline failures. Administered Azure services 
+including Azure Data Lake Storage (ADLS) and Azure Key Vault (AKV), reducing pipeline downtime by 13% 
+while maintaining 100% SLA compliance. 
+
 
 
 **Intern @ Maynilad Water Inc.**  
