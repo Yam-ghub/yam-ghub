@@ -60,6 +60,9 @@ availability across enterprise data platforms.
 performing root cause analysis and issue resolution for data pipeline failures. Administered Azure services 
 including Azure Data Lake Storage (ADLS) and Azure Key Vault (AKV), reducing pipeline downtime by 13% 
 while maintaining 100% SLA compliance. 
+● Collaborated with Data Engineers to support CI/CD deployments using Jenkins, troubleshoot ETL workflows, 
+improve pipeline reliability, and implement best practices for scalable and resilient data processing. 
+
 
 
 
