@@ -9,20 +9,6 @@
 
 -  I’m currently working as a Data Operations that focuses in Azure Cloud Support.
 -  I’m learning: Databricks
-
----
-
-### 🔧 Languages & Tools
-| **Programming & Version Control** | **Databases** | **Cloud & Data Engineering** | **Analytics & Enterprise Tools** |
-|-----------------------------------|---------------|------------------------------|----------------------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Snowflake](https://img.shields.io/badge/Snowflake-56B9E5?style=for-the-badge&logo=snowflake&logoColor=white) | ![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | | ![Azure Data Lake Storage Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white) |
-| | | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) | ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| | | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | |
-
-
 ---
 ## Projects
 
@@ -56,13 +42,10 @@ Designed and implemented a Snowflake Declarative Data Pipeline integrated with A
 
 - Managed, monitored, and optimized over 50 production ETL/ELT data pipelines using Informatica, Apache Airflow, Azure Data Factory (ADF), Databricks, and CA Workload Automation, maintaining 99.8% pipeline availability across enterprise data platforms. Automated and streamlined production monitoring with Moogsoft, xMatters, and Azure Monitor Alerts, performing root cause analysis and resolving data pipeline failures while administering Azure Data Lake Storage (ADLS) and Azure Key Vault (AKV), reducing pipeline downtime by 13% and maintaining 100% SLA compliance. Collaborated with Data Engineers to support CI/CD deployments using Jenkins, troubleshoot ETL workflows, improve pipeline reliability, and implement best practices for scalable, resilient data processing. Partnered with Data Governance and Business Intelligence teams to validate data quality, support Power BI semantic models, resolve data discrepancies, and deliver trusted, analytics-ready datasets for business reporting.
 
-
-
 **Intern @ Maynilad Water Inc.**  
 *Excel, Power Query, Visual Basic* — March 2025 - May 2025
 
 - Designed and implemented automated Excel workbooks using Power Query and VBA macros to transform raw extracted data into structured formats, ready for seamless integration with our front-end monitoring platform.
-
 
 ### 📜 Certifications
 -  Azure Data Fundamentals (DP-900) | Microsoft - [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/WilliamLaurenceRamos-9171/896A2409995AD8EF?sharingId)
@@ -75,6 +58,15 @@ Designed and implemented a Snowflake Declarative Data Pipeline integrated with A
 -  CCNA: Devnet Associate | Cisco - [View Certificate](https://www.credly.com/badges/e4053a47-ee28-4a49-8b39-5f21db4bc78d/)
 -  CCNA: Switching, Routing, and Wireless Essentials | Cisco - [View Certificate](https://www.credly.com/badges/685df46c-11a9-49f4-85d1-fe4a321087a8/)
 ---
+### 🔧 Languages & Tools
+| **Programming & Version Control** | **Databases** | **Cloud & Data Engineering** | **Analytics & Enterprise Tools** |
+|-----------------------------------|---------------|------------------------------|----------------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
+| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Snowflake](https://img.shields.io/badge/Snowflake-56B9E5?style=for-the-badge&logo=snowflake&logoColor=white) | ![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | | ![Azure Data Lake Storage Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white) |
+| | | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) | ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| | | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | |
 
 ### 📫 Contact
 
