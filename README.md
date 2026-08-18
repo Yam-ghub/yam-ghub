@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
--  I’m currently working as a Data Operations that focuses in Azure Cloud Support.
+-  I’m currently working as a Data Operations Engineer that focuses in ETL process in Azure and CA Workload Automation.
 -  I’m learning: Databricks
 ---
 ### 🔧 Languages & Tools
