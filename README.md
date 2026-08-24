@@ -29,7 +29,7 @@ An end-to-end ELT pipeline that loads raw TPC-H order data into Snowflake, trans
 - [**Water Pressure Forecasting with LSTM**](https://github.com/Yam-ghub/Water-Pressure-Forecasting-LSTM-) -
 Developed a deep learning model that forecasts water pressure (PSI) 30 data points ahead to enable predictive maintenance, leak prevention, and optimized water distribution.
 
-- [**Data Pipeline using Snowflake**](https://github.com/Yam-ghub/Data-Pipeline-using-Snowflake) -
+- [**Data Pipeline using AWS, Snowflake and Streamlit**](https://github.com/Yam-ghub/Data-Pipeline-using-Snowflake) -
 Weather Application Data Pipeline is an end-to-end cloud data engineering project that demonstrates a modern ELT workflow using Amazon S3, Snowflake, and Streamlit.
 
 - [**Declarative Data Pipelines with Snowflake**](https://github.com/Yam-ghub/Creating-Declarative-Data-Pipelines)
