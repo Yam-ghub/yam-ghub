@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/451b5fa3-41f2-4ef9-b4df-a53eb5339845" /><h1 align="center"> Hi, I'm <span style="color:#81A1C1;">William Laurence Ramos</span></h1>
+<h1 align="center"> Hi, I'm <span style="color:#81A1C1;">William Laurence Ramos</span></h1>
 
 <p align="center" style="color:#D8DEE9;">
   <strong>Manulife - Data Operations Engineer</strong> aspiring to become a <strong>Data Engineer</strong>
