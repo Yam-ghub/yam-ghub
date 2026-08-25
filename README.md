@@ -44,8 +44,7 @@ Designed and implemented a Snowflake Declarative Data Pipeline integrated with A
 - [**FreeconDataset2025**](https://github.com/Yam-ghub/FreeconDataset2025) - This project focuses on analyzing financial performance metrics—gross sales, profit, cost of goods sold (COGS), and discounts—across datasets from small businesses, government entities, and large enterprises. The goal is to uncover patterns in product performance, pricing strategies, and profitability trends across different organizational scales.
 - [**Cleaning Gamezon Dataset**](https://github.com/Yam-ghub/GamezoneDataset) - Data cleaning using gamezone dataset with the use of power query and excel transformation/commands.
 - [**UnitedStates_Emission_Databricks_**](https://github.com/Yam-ghub/Databricks_Practice/blob/main/README.md) - This project is an end-to-end data pipeline built in Databricks, covering data ingestion, transformation, analysis, and visualization. It focuses on United Nations emissions data, providing actionable insights into global and regional emission patterns. The project demonstrates the full lifecycle of a data engineering and analytics workflow, from raw data ingestion to interactive visualizations.
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bc2ccc0b-44d7-4b91-9fd7-851c0b1c998c" />
-🎨 Web Application Projects
+### 🎨 Web Application Projects
 -  [**Baked with Lauv**](https://github.com/Yam-ghub/BakedwLauvwBE) — a simple cookie sale website built using HTML, CSS, and JavaScript. It allows customers to place orders by filling out a form with their details. Once submitted, the order information is sent directly to the seller’s email, enabling easy order management without a complex backend system.
 ---
 
