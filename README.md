@@ -62,6 +62,7 @@ Designed and implemented a Snowflake Declarative Data Pipeline integrated with A
 
 ### 📜 Certifications
 -  Azure Data Fundamentals (DP-900) | Microsoft - [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/WilliamLaurenceRamos-9171/896A2409995AD8EF?sharingId)
+-  AI Fundamentals | DataCamp - [View Certificate](https://www.datacamp.com/skill-verification/AIF0026136216467)
 -  Associate Data Engineer | DataCamp - [View Certificate](https://www.datacamp.com/certificate/DEA0016051588753)
 -  Databricks Fundamentals | Databricks - [View Certificate](https://credentials.databricks.com/2548f2bf-9258-42b7-8130-60c4e9579448) 
 -  SQL Associate | DataCamp – [View Certificate](https://www.datacamp.com/certificate/SQA0012764305438)
