@@ -26,10 +26,10 @@
 - [**Automated ELT Pipeline with dbt, Airflow, and Snowflake**](https://github.com/Yam-ghub/dbt_airflow_snowflake_datapipeline) -
 An end-to-end ELT pipeline that loads raw TPC-H order data into Snowflake, transforms it through a layered dbt project (staging → intermediate → marts), and orchestrates the whole workflow on an automated schedule using Apache Airflow and Astronomer Cosmos.
 
-- [**Automated ELT Pipeline with dbt, Airflow, and Snowflake**](https://github.com/Yam-ghub/dbt_airflow_snowflake_datapipeline) -
+- [**Stock Market Data Warehouse — Snowflake**](https://github.com/Yam-ghub/Snowflake-Datawarehouse-Project) -
 An end-to-end data pipeline that extracts daily stock price data via API, loads it into Snowflake, and models it into a star schema for analysis.
 
-- [**Stock Market Data Warehouse — Snowflake**](https://github.com/Yam-ghub/Snowflake-Datawarehouse-Project) -
+- [**Fault Forecasting Digital Twin for Preventive Maintenance of Water Pipeline Pressure Data Loggers using Deep Learning**](https://github.com/Yam-ghub/Water-Pressure-Forecasting-LSTM-) -
 Developed a deep learning model that forecasts water pressure (PSI) 30 data points ahead to enable predictive maintenance, leak prevention, and optimized water distribution.
 
 - [**Data Pipeline using AWS, Snowflake and Streamlit**](https://github.com/Yam-ghub/Data-Pipeline-using-Snowflake) -
