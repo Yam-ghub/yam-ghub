@@ -23,6 +23,9 @@
 ## Projects
 
 ### ⚙️ Data Engineer Projects
+- [**CPG Supply Chain Data Warehouse - Snowflake Medallion Pipeline**](https://github.com/Yam-ghub/CPG-Supply-Chain-Snowflake-Data-Warehouse-Medallion-Pipeline) -
+Data warehousing to ETL pipeline to PowerBi Visualizatin that analyze 180,000+ rows of Consumer Product Goods(CPG) data.
+
 - [**Automated ELT Pipeline with dbt, Airflow, and Snowflake**](https://github.com/Yam-ghub/dbt_airflow_snowflake_datapipeline) -
 An end-to-end ELT pipeline that loads raw TPC-H order data into Snowflake, transforms it through a layered dbt project (staging → intermediate → marts), and orchestrates the whole workflow on an automated schedule using Apache Airflow and Astronomer Cosmos.
 
