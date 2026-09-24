@@ -27,7 +27,7 @@
 End-to-end data engineering project simulating a Consumer Packaged Goods (CPG) supply chain analytics platform. Built on Snowflake using a Bronze → Silver → Gold medallion architecture, with automated ETL orchestration using native Snowflake Tasks and a 3-page Power BI dashboard analyzing profitability, discounting, and delivery performance across 180,000+ CPG records.
 
 - [**Automated ELT Pipeline with dbt, Airflow, and Snowflake**](https://github.com/Yam-ghub/dbt_airflow_snowflake_datapipeline) -
-An end-to-end ELT pipeline that loads raw TPC-H order data into Snowflake, transforms it through a layered dbt project (staging → intermediate → marts), and orchestrates the whole workflow on an automated schedule using Apache Airflow and Astronomer Cosmos.
+An end-to-end ELT pipeline that loads raw order data into Snowflake, transforms it through a layered dbt project (staging → intermediate → marts), and orchestrates the whole workflow on an automated schedule using Apache Airflow and Astronomer Cosmos.
 
 - [**Stock Market Data Warehouse — Snowflake**](https://github.com/Yam-ghub/Snowflake-Datawarehouse-Project) -
 An end-to-end data pipeline that extracts daily stock price data via API, loads it into Snowflake, and models it into a star schema for analysis.
