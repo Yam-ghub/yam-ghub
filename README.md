@@ -41,6 +41,8 @@ Weather Application Data Pipeline is an end-to-end cloud data engineering projec
 - [**Declarative Data Pipelines with Snowflake**](https://github.com/Yam-ghub/Creating-Declarative-Data-Pipelines)
 Designed and implemented a Snowflake Declarative Data Pipeline integrated with AWS to automate customer and order data processing using SQL.
 
+- [**Bank Marketing Data Cleaning & Transformation using pandas**](https://github.com/Yam-ghub/Cleaning-Bank-Marketing-Campaign-Data) - This project focuses on cleaning and transforming a bank marketing dataset using Python and Pandas. The original dataset was processed into separate datasets for client information, campaign activity, and economic indicators, making the data easier to analyze and use for downstream analytics.
+
 ### 📊 Data Analysis Projects
 - [**Shopify Performance Dashboard**](https://github.com/Yam-ghub/Shopify-Performance-Dashboard) - This dynamic dashboard is built to make analyzing Shopify sales and customer data simple and impactful—without writing a single line of SQL. It starts with Excel for initial data analysis, uses Power Query to clean and transform raw Shopify exports, and brings everything to life with Power BI for rich, interactive visualizations. At its core, it empowers self-service analytics, so anyone can explore key KPIs and uncover insights in just a few clicks.
 -  [**UK Accident Analysis**](https://github.com/Yam-ghub/UK-Road-Accident-Analysis) — A data analysis project exploring patterns in UK road accidents with a focus on casualties, severity, vehicle types, and environmental conditions. Built using Power BI and DAX.
@@ -50,9 +52,6 @@ Designed and implemented a Snowflake Declarative Data Pipeline integrated with A
 - [**FreeconDataset2025**](https://github.com/Yam-ghub/FreeconDataset2025) - This project focuses on analyzing financial performance metrics—gross sales, profit, cost of goods sold (COGS), and discounts—across datasets from small businesses, government entities, and large enterprises. The goal is to uncover patterns in product performance, pricing strategies, and profitability trends across different organizational scales.
 - [**Cleaning Gamezon Dataset**](https://github.com/Yam-ghub/GamezoneDataset) - Data cleaning using gamezone dataset with the use of power query and excel transformation/commands.
 - [**UnitedStates_Emission_Databricks_**](https://github.com/Yam-ghub/Databricks_Practice/blob/main/README.md) - This project is an end-to-end data pipeline built in Databricks, covering data ingestion, transformation, analysis, and visualization. It focuses on United Nations emissions data, providing actionable insights into global and regional emission patterns. The project demonstrates the full lifecycle of a data engineering and analytics workflow, from raw data ingestion to interactive visualizations.
-### 🎨 Web Application Projects
--  [**Baked with Lauv**](https://github.com/Yam-ghub/BakedwLauvwBE) — a simple cookie sale website built using HTML, CSS, and JavaScript. It allows customers to place orders by filling out a form with their details. Once submitted, the order information is sent directly to the seller’s email, enabling easy order management without a complex backend system.
----
 
 ### 🧳 Experience
 
