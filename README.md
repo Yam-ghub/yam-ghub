@@ -77,7 +77,7 @@ Designed and implemented a Snowflake Declarative Data Pipeline integrated with A
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Snowflake](https://img.shields.io/badge/Snowflake-56B9E5?style=for-the-badge&logo=snowflake&logoColor=white) | ![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 | ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | | ![Azure Data Lake Storage Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white) |
 | | | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) | ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| | | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | |
+| | | | |
 
 ---
 
