@@ -13,7 +13,7 @@
 ## Projects
 
 ### ⚙️ Data Engineer Projects
-- [**Azure Car Sales Analytics Pipeline (Databricks, ADF, ADLS, Github, SQL Server**](https://github.com/Yam-ghub/Azure-Car-Sales-Analytics-Pipeline) -
+- [**Azure Car Sales Analytics Pipeline**](https://github.com/Yam-ghub/Azure-Car-Sales-Analytics-Pipeline) -
 Scalable Azure data pipeline showcasing incremental ingestion, medallion architecture, and dimensional modeling using ADF, ADLS, and Azure Databricks. Data flows through Bronze → Silver → Gold layers, where it is incrementally loaded, cleansed, deduplicated, transformed, and ultimately modeled into a star schema for downstream analytics and reporting.
 
 - [**CPG Supply Chain Data Warehouse - Snowflake Medallion Pipeline**](https://github.com/Yam-ghub/CPG-Supply-Chain-Snowflake-Data-Warehouse-Medallion-Pipeline) -
