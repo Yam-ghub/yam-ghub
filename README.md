@@ -8,7 +8,6 @@
 ### 🧠 About Me
 
 -  I’m currently working as a Data Operations Engineer that focuses in ETL process in Azure and CA Workload Automation.
--  I’m learning: Databricks
 ---
 ## Projects
 
